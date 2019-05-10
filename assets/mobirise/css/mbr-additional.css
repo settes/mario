@@ -2175,6 +2175,17 @@ body {
 .cid-rq1pKUxrx3 .media-container-row .row-copirayt p {
   width: 100%;
 }
+.cid-rq3aTZeCpB {
+  padding-top: 105px;
+  padding-bottom: 30px;
+  background-color: #003399;
+}
+.cid-rq3aTZeCpB .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rq3aTZeCpB H2 {
+  color: #ffffff;
+}
 .cid-rq3aP4upVq .navbar {
   background: #ffffff;
   transition: none;
@@ -2568,9 +2579,9 @@ body {
   color: #767676 !important;
 }
 .cid-rq3aZIsmZ2 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
 }
 .cid-rq3aZIsmZ2 .media-container-row {
   flex-direction: row-reverse;
@@ -2593,13 +2604,72 @@ body {
     text-align: center;
   }
 }
-.cid-rq3aTZeCpB {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-rq3aZIsmZ2 H1 {
+  color: #232323;
+}
+.cid-rq3aZIsmZ2 .mbr-text,
+.cid-rq3aZIsmZ2 .mbr-section-btn {
+  color: #232323;
+}
+.cid-rq4SBa6IZ8 {
+  padding-top: 30px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-rq3aTZeCpB .mbr-section-subtitle {
-  color: #767676;
+@media (min-width: 992px) {
+  .cid-rq4SBa6IZ8 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rq4SBa6IZ8 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rq4SBa6IZ8 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rq4SBa6IZ8 H1 {
+  color: #232323;
+}
+.cid-rq4SBa6IZ8 .mbr-text,
+.cid-rq4SBa6IZ8 .mbr-section-btn {
+  color: #232323;
+}
+.cid-rq4Tit2FO5 {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rq4Tit2FO5 .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rq4Tit2FO5 .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rq4Tit2FO5 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rq4Tit2FO5 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rq4Tit2FO5 H1 {
+  color: #232323;
+}
+.cid-rq4Tit2FO5 .mbr-text,
+.cid-rq4Tit2FO5 .mbr-section-btn {
+  color: #232323;
 }
 .cid-rq3aPGxpjl {
   padding-top: 90px;
