@@ -1883,41 +1883,8 @@ body {
 .cid-rq2YdIK7co H2 {
   color: #003399;
 }
-.cid-rq2Ym56pgc {
-  padding-top: 30px;
-  padding-bottom: 60px;
-  background-color: #f7f7f7;
-}
-.cid-rq2Ym56pgc .counter-container {
-  color: #767676;
-}
-.cid-rq2Ym56pgc .counter-container ul {
-  margin-bottom: 0;
-}
-.cid-rq2Ym56pgc .counter-container ul li {
-  margin-bottom: 1rem;
-  list-style: none;
-}
-.cid-rq2Ym56pgc .counter-container ul li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  padding-top: 3px;
-  content: '';
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 20px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #00adcc;
-  width: 25px;
-  height: 25px;
-  border-radius: 50%;
-  content: '✓';
-}
 .cid-rq5Wk3SoIl {
-  padding-top: 60px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #f7f7f7;
 }
