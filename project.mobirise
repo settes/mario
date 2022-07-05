@@ -54,7 +54,7 @@
     "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
